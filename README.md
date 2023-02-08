@@ -23,7 +23,7 @@ unpack `fra.txt` into the the folder `./data/`. Then run
 This notebook is just a TF2 update of the repository https://github.com/alexeyev/Keras-Generating-Sentences-from-a-Continuous-Space
 
 
-```
+
 # Examples
 
 Travelling the space: 
